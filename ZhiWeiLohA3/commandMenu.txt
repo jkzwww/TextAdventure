@@ -1,0 +1,13 @@
+;;Write commands in the format "verb Noun";(only one space in between and first letter of Noun must be capital);
+--------------------------------------------------------------------------------------------------------------------;Movement;--------------------------------------------------------------------------------------------------------------------;
+go Roomname || search Roomname;
+
+!!check roomname on the map!!;
+--------------------------------------------------------------------------------------------------------------------;Items;--------------------------------------------------------------------------------------------------------------------;
+get Item || drop Item || examine Item || use Item;
+
+!!first check location to discover items!!use item command is only used when accusing murderer!!
+--------------------------------------------------------------------------------------------------------------------;Suspects;--------------------------------------------------------------------------------------------------------------------;
+question Suspectname || chat Suspectname || accuse Suspectname || gather suspects[G];
+
+!!gathering suspects will end the game, use only when murderer is confirmed!!

@@ -1,0 +1,12 @@
+GAME RULES;
+1. Enter command according to the format given in command menu.;
+2. Search for hidden items in the location.;
+3. Interact with items or suspects and write notes when necessary.;
+4. Note that each turn only allows 5 commands, number of turns is given on top.;
+5. When 7 turns passed, suspects may travel to other locations , so find them quickly.;
+6. Collect the item which you think is evidence of murder or looks useful.;
+7. Your inventory has 5 slots so remember to drop items when unused.;
+8. Question each suspect for their alibi, also chat with them to identify their motive.;
+9. Once you identified the murderer and collected the murder weapon,; 
+   gather the murderers to the crime scene and accuse the murderer!;
+10. If the murderer, motive, weapon and location are correct, you win the game.;

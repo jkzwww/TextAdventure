@@ -1,0 +1,1 @@
+Kitchen;Dining;Lounge;Conservatory;Library;Study;Cellar;Hall;Bathroom;Game;Bedroom;Laundry;Gallery;Porch;Pantry;Gym;

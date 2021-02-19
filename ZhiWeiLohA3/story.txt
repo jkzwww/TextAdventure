@@ -1,0 +1,12 @@
+GAME BACKGROUND;
+"It was supposed to be a sleepover vacation in a mansion with friends, ;
+but before the night is out ... one of them will be dead!;
+What is it that drives one person to murder another?; 
+Is it out of hatred, jealousy or just self-defense?; 
+Will the old saying, "money is the root of all evil", hold true?;
+Who knows ... but then, that's your job!; 
+You pit your wits against people who think they can get away with murder.;
+You are a detective out to solve crime, specifically, homicide.; 
+It's your job to interview the suspects and examine the scene for evidence,; 
+discover the murder motive, weapon and where the murder took place ...; 
+all before the killer can strike again!";
